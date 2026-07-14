@@ -1,1 +1,0 @@
-print("Writing my first code in visual studio")
