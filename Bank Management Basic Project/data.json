@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Sarvesh",
+        "age": 20,
+        "balance": 1000
+    },
+    {
+        "name": "Sarthak",
+        "age": 20,
+        "email": "sarthak@gmail.com",
+        "pin": 6666,
+        "accountNo.": "2*Rf9S3",
+        "balance": 0
+    },
+    {
+        "name": "Ved Pawar",
+        "age": 20,
+        "email": "xyz@gmail.com",
+        "pin": 5555,
+        "accountNo.": "w%m7d95",
+        "balance": 0
+    },
+    {
+        "name": "Jayakar Patil",
+        "age": 50,
+        "email": "jp@gmail.com",
+        "pin": 5555,
+        "accountNo.": "P5BW*47",
+        "balance": 0
+    }
+]
